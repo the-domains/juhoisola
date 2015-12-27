@@ -1,6 +1,6 @@
 name: JuhoIsola
 favicon: null
-layout_spectrum: 0.60627
+layout_spectrum: 0.65925
 typography_spectrum: 0.6705558691173792
 title: "Juho Isola's homepage"
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#ffffff'
     - '#000000'
-    - '#f4f5e7'
-    - '#2a4a29'
-    - '#73ab2e'
-    - '#ae6c65'
+    - '#19b1ce'
+    - '#484848'
+    - '#ffb174'
   brandStrength: 0.1875
   lightness: 0.7071151847485453
   saturation: 0.0625
