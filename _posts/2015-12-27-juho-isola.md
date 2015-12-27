@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-27T10:40:45.651Z'
-dateModified: '2015-12-27T10:39:39.123Z'
+datePublished: '2015-12-27T10:43:23.984Z'
+dateModified: '2015-12-27T10:42:58.380Z'
 title: Juho Isola
 author: []
 sourcePath: _posts/2015-12-27-juho-isola.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 # Juho Isola
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20d2a3cd-6a8f-4d65-89ce-56412aec6d11.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ba1456-d2a1-4a73-b664-3544f3e5f430.jpg)
