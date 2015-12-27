@@ -4,8 +4,15 @@
         <description><![CDATA[Juho Isola's homepage]]></description>
         <link>https://thegrid.ai/juhoisola/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 10:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 10:36:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/juhoisola/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Juho Isola]]></title>
+            <description><![CDATA[<article><h1>Juho Isola</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/103eda0c-d5ab-425f-9903-ce96f455c3be.png"></article>]]></description>
+            <link>https://thegrid.ai/juhoisola/juho-isola/index.html</link>
+            <guid isPermaLink="false">e7832e69-327d-4a36-9986-4084e1fd86d1</guid>
+            <pubDate>Sun, 27 Dec 2015 10:36:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My company. TAVIQ.]]></title>
             <description><![CDATA[<article><h1>My company. TAVIQ.</h1><p>TAVIQ is a financial technology company based in Oulu, Finland. Our mission is to make private wealth management possible for everyone. This can be achieved by helping traditional and regulated investment advisers to digitalize their services and to help them reach new lower wealth market segments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19d21549b774fdaaf2bc6d62a8cb95ac5afa9ae8.jpg"></article>]]></description>
