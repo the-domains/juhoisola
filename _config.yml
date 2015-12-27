@@ -2,6 +2,7 @@ name: JuhoIsola
 favicon: null
 layout_spectrum: 0.7302345454227179
 typography_spectrum: 0.6705558691173792
+title: "Juho Isola's homepage"
 cta:
   domain: null
   bucket: null
