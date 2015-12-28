@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Juho Isola's homepage]]></title>
         <description><![CDATA[Juho Isola's homepage]]></description>
-        <link>https://thegrid.ai/juhoisola/</link>
+        <link>http://juhoisola.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 12:57:45 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/juhoisola/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 07:28:44 GMT</lastBuildDate>
+        <atom:link href="http://juhoisola.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Juho Isola]]></title>
             <description><![CDATA[<article><h1>Juho Isola</h1><p>I am a Finnish entrepreneur and a student of pretty much everything. I seek to learn more about life, finance, business, and about new technology driven innovations. I am fascinated by the opportunities in financial technology and synthetic biology and I am always seeking to talk to new people who share my interests. You can find more about me from http://fi.linkedin.com/in/juhoisol and https://twitter.com/juhoisol you can also contact me via email: juhoisol@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68c9a9f117f26f1824d73f1c974cf5b21e03482d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/juhoisola/juho-isola/index.html</link>
+            <link>http://juhoisola.com/juho-isola/index.html</link>
             <guid isPermaLink="false">5d2b8dc0-b2e3-48be-a52c-ead2b3a02213</guid>
             <pubDate>Sun, 27 Dec 2015 12:54:30 GMT</pubDate>
         </item>
@@ -22,8 +22,8 @@
         </item>
         <item>
             <title><![CDATA[TAVIQ]]></title>
-            <description><![CDATA[<article><h1>TAVIQ</h1><p>This is my first company, TAVIQ. TAVIQ is a financial technology company based in Oulu, Finland. Our mission is to make private wealth management possible for everyone. This can be achieved by helping traditional wealth managers to digitize and automate their services. This helps them to serve a new lower wealth customer segment. Visit our homepage to learn more: http://taviq.fi/</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a0eb5d-1ec2-41e5-8a9c-84d865d950b0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/juhoisola/taviq/index.html</link>
+            <description><![CDATA[<article><h1>TAVIQ</h1><p>This is my first company, TAVIQ. TAVIQ is a financial technology company based in Oulu, Finland. Our mission is to make private wealth management possible for everyone. This can be achieved by helping traditional wealth managers to digitize and automate their services. This helps them to serve a new lower wealth customer segment. Visit our homepage to learn more: http://taviq.fi/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f887f944d529a9fb4cce8b7c50e95fbac105c6c.jpg"></article>]]></description>
+            <link>http://juhoisola.com/taviq/index.html</link>
             <guid isPermaLink="false">65e7902d-af3b-4372-8e31-0f37052254e9</guid>
             <pubDate>Sun, 27 Dec 2015 12:57:23 GMT</pubDate>
         </item>
@@ -40,13 +40,6 @@
             <link>http://www.economist.com/news/special-report/21650290-financial-technology-will-make-banks-more-vulnerable-and-less-profitable-it</link>
             <guid isPermaLink="false">7bd6e511-4e23-43fa-9be4-d907d3b6cf7b</guid>
             <pubDate>Sun, 27 Dec 2015 11:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Financial technology in global markets]]></title>
-            <description><![CDATA[<article><h1>Financial technology in global markets</h1><p>Financial technology is an emerging global trend with numerous business opportunities to Finnish technology companies. The growth of Fintech is led by major financial centers: the US and the main European markets like the United Kingdom and Italy. In the UK alone, the Fintech market is worth £20bn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddb624a849689ee8f3680c572ed5720f78c2644c.jpg"></article>]]></description>
-            <link>http://www.exportfinland.fi/web/eng/market-opportunity/financial-technology</link>
-            <guid isPermaLink="false">2c2bda0d-af7d-49c2-ace4-c04189467a54</guid>
-            <pubDate>Sun, 27 Dec 2015 11:50:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
