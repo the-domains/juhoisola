@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-27T12:54:30.810Z'
-dateModified: '2015-12-27T12:54:27.504Z'
+datePublished: '2015-12-28T08:03:17.939Z'
+dateModified: '2015-12-28T08:03:11.215Z'
 title: Juho Isola
 author: []
 sourcePath: _posts/2015-12-27-juho-isola.md
