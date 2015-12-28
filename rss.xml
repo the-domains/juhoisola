@@ -4,8 +4,15 @@
         <description><![CDATA[Juho Isola's homepage]]></description>
         <link>http://juhoisola.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 08:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 08:04:11 GMT</lastBuildDate>
         <atom:link href="http://juhoisola.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Juho Isola (@juhoisol). Co-founder & CEO @taviqInvesting | Geography, Finance, and IT | Hi, how are you?. Oulu, Finland</p>]]></description>
+            <link>https://twitter.com/juhoisol</link>
+            <guid isPermaLink="false">db92840e-226c-4a22-8b85-55fb724d445c</guid>
+            <pubDate>Mon, 28 Dec 2015 08:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TAVIQ]]></title>
             <description><![CDATA[<article><h1>TAVIQ</h1><p>This is my first company, TAVIQ. TAVIQ is a financial technology company based in Oulu, Finland. Our mission is to make private wealth management possible for everyone. This can be achieved by helping traditional wealth managers to digitize and automate their services. This helps them to serve a new lower wealth customer segment. Visit our homepage to learn more: http://taviq.fi/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f887f944d529a9fb4cce8b7c50e95fbac105c6c.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://juhoisola.com/my-articles/index.html</link>
             <guid isPermaLink="false">eb5cbca6-ce3c-413a-b544-ac45ede5182d</guid>
             <pubDate>Mon, 28 Dec 2015 07:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The latest Tweets from Juho Isola (@juhoisol). Co-founder & CEO @taviqInvesting | Geography, Finance, and IT | Hi, how are you?. Oulu, Finland</p>]]></description>
-            <link>https://twitter.com/juhoisol</link>
-            <guid isPermaLink="false">db92840e-226c-4a22-8b85-55fb724d445c</guid>
-            <pubDate>Sun, 27 Dec 2015 12:47:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
