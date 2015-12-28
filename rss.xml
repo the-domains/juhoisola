@@ -4,14 +4,21 @@
         <description><![CDATA[Juho Isola's homepage]]></description>
         <link>http://juhoisola.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 08:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 08:12:22 GMT</lastBuildDate>
         <atom:link href="http://juhoisola.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TAVIQ]]></title>
+            <description><![CDATA[<article><h1>TAVIQ</h1><p>This is my first company, TAVIQ. TAVIQ is a financial technology company based in Oulu, Finland. Our mission is to make private wealth management possible for everyone. This can be achieved by helping traditional wealth managers to digitize and automate their services. This helps them to serve a new lower wealth customer segment. Visit our homepage to learn more: http://taviq.fi/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f887f944d529a9fb4cce8b7c50e95fbac105c6c.jpg"></article>]]></description>
+            <link>http://juhoisola.com/taviq/index.html</link>
+            <guid isPermaLink="false">65e7902d-af3b-4372-8e31-0f37052254e9</guid>
+            <pubDate>Mon, 28 Dec 2015 08:12:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Juho Isola]]></title>
             <description><![CDATA[<article><h1>Juho Isola</h1><p>I am a Finnish entrepreneur and a student of pretty much everything. I seek to learn more about life, finance, business, and about new technology driven innovations. I am fascinated by the opportunities in financial technology and synthetic biology and I am always seeking to talk to new people who share my interests. You can find more about me from http://fi.linkedin.com/in/juhoisol and https://twitter.com/juhoisol you can also contact me via email: juhoisol@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68c9a9f117f26f1824d73f1c974cf5b21e03482d.jpg"></article>]]></description>
             <link>http://juhoisola.com/juho-isola/index.html</link>
             <guid isPermaLink="false">5d2b8dc0-b2e3-48be-a52c-ead2b3a02213</guid>
-            <pubDate>Mon, 28 Dec 2015 08:11:42 GMT</pubDate>
+            <pubDate>Mon, 28 Dec 2015 08:11:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +26,6 @@
             <link>https://twitter.com/juhoisol</link>
             <guid isPermaLink="false">db92840e-226c-4a22-8b85-55fb724d445c</guid>
             <pubDate>Mon, 28 Dec 2015 08:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TAVIQ]]></title>
-            <description><![CDATA[<article><h1>TAVIQ</h1><p>This is my first company, TAVIQ. TAVIQ is a financial technology company based in Oulu, Finland. Our mission is to make private wealth management possible for everyone. This can be achieved by helping traditional wealth managers to digitize and automate their services. This helps them to serve a new lower wealth customer segment. Visit our homepage to learn more: http://taviq.fi/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f887f944d529a9fb4cce8b7c50e95fbac105c6c.jpg"></article>]]></description>
-            <link>http://juhoisola.com/taviq/index.html</link>
-            <guid isPermaLink="false">65e7902d-af3b-4372-8e31-0f37052254e9</guid>
-            <pubDate>Mon, 28 Dec 2015 08:05:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Events]]></title>
