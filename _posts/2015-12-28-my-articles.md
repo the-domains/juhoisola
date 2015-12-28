@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-28T08:19:04.604Z'
-dateModified: '2015-12-28T08:19:01.276Z'
+datePublished: '2015-12-28T08:22:58.866Z'
+dateModified: '2015-12-28T08:22:56.082Z'
 title: My articles
 author: []
 sourcePath: _posts/2015-12-28-my-articles.md
@@ -30,4 +30,7 @@ Here you can find some of my articles / blog posts that are scattered around the
 [http://digitalistnetwork.com/digitaalisen-liiketoiminnan-haasteet/][0]
 null
 
+[http://digitalistnetwork.com/digitalisaation-epatodennakoinen-sankari/][1]
+
 [0]: http://digitalistnetwork.com/digitaalisen-liiketoiminnan-haasteet/
+[1]: http://digitalistnetwork.com/digitalisaation-epatodennakoinen-sankari/
