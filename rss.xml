@@ -4,7 +4,7 @@
         <description><![CDATA[Juho Isola's homepage]]></description>
         <link>http://juhoisola.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 17:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 17:15:44 GMT</lastBuildDate>
         <atom:link href="http://juhoisola.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Juho Isola]]></title>
@@ -22,17 +22,27 @@
         </item>
         <item>
             <title><![CDATA[TAVIQ]]></title>
-            <description><![CDATA[<article><h1>TAVIQ</h1><p>This is my first company, TAVIQ. TAVIQ is a financial technology company based in Oulu, Finland. Our mission is to make private wealth management possible for everyone. This can be achieved by helping traditional wealth managers to digitize and automate their services. This helps them to serve a new lower wealth customer segment. Visit our homepage to learn more: http://taviqinvesting.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9288f74d84a6e042714add721cbe84933da3d55c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>TAVIQ</h1><p>This is my first company, TAVIQ. TAVIQ provides 
+modern digital solutions for financial companies. TAVIQ is a financial 
+technology company that combines skills in finance, software 
+engineering, usability, and mathematics. Our mission is to modernize and
+ streamline the industry for investment products and services. We serve a
+ wide range of established companies and startups from the financial 
+industry and financial technology space. Our products and services 
+include White-Label Robo-Advice technologies, Robo-technology for 
+trading idea generation, client risk-analysis methods, back-end 
+solutions for digital investment advisers, and tailored consulting and 
+IT-development projects. Visit our homepage to learn more: http://taviqinvesting.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9288f74d84a6e042714add721cbe84933da3d55c.jpg"></article>]]></description>
             <link>http://juhoisola.com/taviq/index.html</link>
             <guid isPermaLink="false">65e7902d-af3b-4372-8e31-0f37052254e9</guid>
             <pubDate>Tue, 29 Mar 2016 17:08:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Events]]></title>
-            <description><![CDATA[<article><h1>Events</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/451555ec9378b03f9866d922c48a4598a717620f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Events</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31d3737d1b127b369968dc2edd7ac163c6fc0227.jpg"></article>]]></description>
             <link>http://juhoisola.com/events/index.html</link>
             <guid isPermaLink="false">0c3ac433-d90b-4fa3-9b69-bd341b6409aa</guid>
-            <pubDate>Tue, 29 Mar 2016 17:05:04 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 17:15:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Press mentions]]></title>
