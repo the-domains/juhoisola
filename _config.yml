@@ -2,7 +2,7 @@ name: JuhoIsola
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.51836
-title: "Juho Isola's homepage"
+title: Juho Isola's homepage
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#007689'
   brandStrength: 0
-  lightness: 1
+  lightness: 0.8125
   saturation: 1
   rhythmicContrast: 0
 purpose: []
