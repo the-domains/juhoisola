@@ -12,8 +12,8 @@ description: >-
   interests. You can find more about me from http://fi.linkedin.com/in/juhoisol
   and https://twitter.com/juhoisol you can also contact me via email:
   juhoisol@gmail.com
-datePublished: '2016-06-29T14:44:22.290Z'
-dateModified: '2016-06-29T14:44:12.823Z'
+datePublished: '2016-06-29T15:08:29.824Z'
+dateModified: '2016-06-29T15:08:17.223Z'
 title: Juho Isola
 author: []
 sourcePath: _posts/2015-12-27-juho-isola.md
